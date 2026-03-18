@@ -62,7 +62,7 @@ ACTIVIDAD GRUPAL
 
 - ¿en qué usan su tiempo recreativo?
 
-la actividad culminó en una especie de tablero en la pared en donde junto con un hilo y alfileres se enmarcaron una serie de preguntas que permitirían conocer mejor a los integrantes del curso, esto se daba al responder y hacer su recorrido cada uno con el hilo y responder una a una las preguntas
+la actividad culminó en una especie de tablero en la pared en donde junto con un hilo y alfileres se enmarcaron una serie de preguntas que permitirían conocer mejor a los integrantes del curso, esto se daba al responder y hacer su recorrido cada uno con el hilo y responder una a una las preguntas, los colores de los hilos representan a los 3 equipos distintos
 
 ![actividadclase1](./imagenes/actividad-clase-1.jpg)
 
