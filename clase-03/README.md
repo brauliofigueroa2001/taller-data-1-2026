@@ -86,4 +86,52 @@ feedback que dió a otro grupo, no recuerdo bien cuál
 
 -  las fórmulas se pueden robar
 
+![ejemplo1](./imagenes/excelejemplo.jpg)
+
+- si clickeo el vértice izq selecciona todas las filas y columnas
+
+- la herramienta crear filtro sirve para filtrar para todos o filtrar para mí
+
+- si deslizo con un ícono de mano, esto hace que quede fijo el dato y que cuando scrollee este no se desplace
+
+herramientas que nos sirven
+
+- split, sirve para dividir, en cuántas columnas quiero dividir?
+
+- find and replace --> ejemplo: esto find las comas y replace con puntos, es decir, encuentra las comas y reemplázalas con puntos en un rango definido que yo te daré
+
+- se pueden pintar las celdas/categorías de las columnas
+
+![ejemplo2](./imagenes/excelejemplo2.jpg)
+
+- ej: concatenar es juntar, puedo concatenar joaquín y gonzález las veces que necesite
+
+- si yo tomo una celda, se mueve la fórmula y el número?
+
+- debo entender mejor lo de las fórmulas
+
+- puedo sumar arrastrando la fórmula hacia el lado, la fórmula se puede arrastrar de una celda a otra
+
+- sumif significa sumar si es mayor a tal número, es como los if en c++
+
+- copiar fórmula y reemplazar los valores para el caso específico que necesitemos
+
+- transpose --> sirve para pasar una columna a fila y viceversa, nos sirve para dar vuelta la tabla x así decirlo, significa transponer
+
+- puedo copiar sólo el valor y sin fórmula o puedo copiar con valor y fórmula o copiar sólo la fórmula? se pueden estas 3 opciones?
+
+- sort to a-z de más nuevo a más viejo
+
+- sort to z-a significa de más viejo a más nuevo
+
+PARA EL VIERNES
+
+- necesitamos tablas del estilo visto en clases
+
+- categorías claras, fechas, rangos
+
+- elemnentos que se utilicen sean comparables
+
+- mucho texto distinto no es comparable, palabras que se repiten sí, traer resultados de análisis
+
 -  
