@@ -1,1 +1,99 @@
 
+
+# láminas taller data presentación
+
+## ¿Cuáles fueron los principales temas expresados en las redes sociales durante el estallido social y la pandemia?
+
+### ADQUIRIR: DÓNDE MIRO
+
+- busco en los 40 perfiles fotos de hitos nacionales, esta búsqueda es dentro de instagram, facebook y tiktok
+
+- definimos cuatro hitos sociales más importantes, revolucion pinguina, terremoto, estallido social y pandemia.
+
+- Recopilamos mediante búsqueda manual en un tiempo determinado de un año de hito todas sus fotos.
+
+- no encontramos publicaciones en las fechas de revolucion pinguina, ni terremoto por lo que descartoamos estos hitos sociales
+
+**hitos y fechas de búsqueda**
+
+- **Revolución Pingüina**: 1 de enero de 2006 – 1 de enero de 2007
+
+- **Terremoto:** 27 de febrero de 2010 – 27 de febrero de 2011
+
+- **Estallido Social:** 18 de octubre de 2019 – 18 de octubre de 2020
+
+- **Pandemia:** 13 de marzo de 2020 – 13 de marzo de 2021
+
+ ### Analizar: ¿QUÉ MIRO?
+
+- miro todos los elementos dentro de la fotografía que hagan alusión directa a los hitos de estallido social y pandemia (no se encontró registro de los demás hitos), esto puede ser mediante objetos físicos o expresiones directas (textuales) acerca del hito o una combinación de ambos (elementos materiales y textuales dentro de la foto)
+
+- la primera variable que definimos fue el período, diferenciando entre el estallido social y la pandemia.
+
+- posteriormente, definimos las variables que permitieran responder a la pregunta principal sobre los temas manifestados durante cada hito social, estas categorías las utilizamos para organizar los datos de las fotos y poder clasificarlos
+
+**Variables a analizar**
+
+- Período: Estallido social / Pandemia.
+-Temática: Política, Salud, Humor, Economía, Espiritualidad, cultura y educación.
+
+- la clasificación de las fotos dentro de estas imágenes fue hecha con inteligencia artificial, sólo enviándole los textos (filtrado más adelante) esto con motivo de no tener sesgos propios al momento de categorizar cada fotografía.
+
+### Filtrar
+
+**¿CÓMO MIRO?**
+
+- seleccionamos únicamente las imágenes que contenían texto, ya que este permite identificar de manera explícita la intención del mensaje y proporciona un contexto comunicativo que facilita el análisis.
+
+- este análisis fue una mezcla de extraer palabras de forma manual pero también utilizamos herramientas de inteligencia artificial para hacerlo más rápido, la IA se equivocaba a veces extrayendo palabras por lo que había que revisar bien si había incluido o no palabras extra
+
+- un segundo filtrado fue eliminar todas las palabras que fueran conectores, de esta manera quedamos con un menor número de palabras
+
+- en un excel dejamos la siguiente estructura final -->: foto - hito - texto - palabras poema (texto extraído) - temática del texto - porcentaje de la temática
+
+### MINAR
+
+**QUÉ CREO CON LOS DATOS QUE TENGO**
+
+- con las palabras extraídas generamos un poema el cuál mezcla las palabras de ambas temáticas (estallido social y pandemia)
+
+- cada palabra tiene asociados sus datos respectivos los cuáles son: foto de origen - frase de origen - temática - porcentaje temática
+
+### REPRESENTACIÓN
+
+- la instalación contempla una estructura de madera sobre la cuál va desplegada una tela, en esta tela se encuentra el poema generado y proyectado
+
+- el proyector se encuentra en un tótem el cuál se encuentra a 2 metros de distancia , en este tótem también se encuentra el computador (ambos ocultos) y en la parte superior existe un touchpad
+
+###  AFINAR
+
+- planos
+
+### INTERACTUAR
+
+- la persona entra a la sala y el primer objeto que se encuentra frente a ella es un totem que contiene un touchpad, delante del tótem está desplegada la tela en la estructura de madera
+
+- este touchpad permite al interactuar con lo que se muestra en la tela, la primera interacción textual con el usuario es la exposición proyectada en la tela de un manifiesto sobre la importancia de la expresión propia, el texto incita al usuario a descubrir cuáles fueron las formas de expresión durante el estallido social y la pandemia
+
+- al hacer click con el touchpad, se despliega un poema generado y mezclado a partir de todos los textos de estos hitos
+
+- si clickea una palabra, se despliega información sobre esta misma, la cuál es: foto de origen - frase de origen - temática - porcentaje temática a nivel general (ejemplo: humor está en un 26% de las fotos en pandemia)
+
+- puede clickear en la esquina superior izquierda para volver al poema, en caso de no clickear tras 20 segundos, la aplicación vuelve de manera automática al poema
+
+- si no se clickea el poema en 20 segundos más, la aplicación vuelve a mostrar el manifiesto
+
+### Montaje y elementos
+
+- infraestructura, edificio
+- solamente necesitamos espacio de piso, de 5 metros x 3 metros y conexión eléctrica.
+
+**Dispositivos**
+
+- proyector, pc,touchpad, alargador
+
+- spot, navegadores que toman como textura y se puede mapear, obs estudio, pagina web y lo transmite.
+
+**Mobiliario**
+
+- lienzo blanco, atril para la tela, lienzo extendido, tótem
